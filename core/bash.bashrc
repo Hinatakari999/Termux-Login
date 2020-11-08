@@ -7,10 +7,10 @@ python /data/data/com.termux/files/usr/etc/login_script.py
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 
 clear
-echo "Created By HTR-TECH"
+echo "Created By Hinatakari999"
 echo "----------------------------" | lolcat
-echo "Instagram :@ tahmid.rayat"
-echo "Github: github.com/htr-tech/"
+echo "Telegram :@Hinatakari999"
+echo "Github: github.com/Hinatakari999/"
 echo "----------------------------" | lolcat
 echo "
 +-+-+-+-+-+-+-+
