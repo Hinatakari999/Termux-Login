@@ -7,8 +7,8 @@
 ```
 apt update
 apt install git -y
-git clone https://github.com/htr-tech/termux-login.git
-cd termux-login
+git clone https://github.com/Hinatakari999/Termux-Login.git
+cd Termux-Login
 chmod +x *
 sh install.sh
 exit 
@@ -16,7 +16,7 @@ exit
     
 ### or use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/htr-tech/termux-login.git && cd termux-login && chmod +x * && sh install.sh
+apt update && apt install git -y && git clone https://github.com/Hinatakari999/Termux-Login.git && cd Termux-Login && chmod +x * && sh install.sh
 ```
 ### Now go to Termux App & Set Username,Password AND Recovery Key
 
@@ -31,10 +31,8 @@ apt update && apt install git -y && git clone https://github.com/htr-tech/termux
 
 #### CREDITS:
     
-    https://github.com/Udoy2/ 🤩
-    https://github.com/TechnicalMujeeb/ 🤩
+    https://github.com/Hinatakari999/ 🤩
     
 ## [+] Find Me on :
-#### Instagram : @tahmid.rayat
-#### Facebook : tahmid.rayat.official
-#### Github : htr-tech
+#### Telegram : @Hinatakari999
+#### Github : Hinatakari999
